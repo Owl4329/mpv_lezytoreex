@@ -6,4 +6,5 @@
 
 ## 关于 shaders
 因手机端OpenGL版本低等原因，shaders 中的ravu系列，nnedi3系列等不可用，请自行测试
+
 A4k、FSR、FSRCNNX、ACNet、noise_static、superxbr等系列可用
